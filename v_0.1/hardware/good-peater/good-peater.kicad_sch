@@ -5416,7 +5416,7 @@
 	)
 	(text "~UNDERTEMP~"
 		(exclude_from_sim no)
-		(at 149.86 128.524 0)
+		(at 156.972 128.524 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5426,7 +5426,7 @@
 	)
 	(text "~OVERTEMP~"
 		(exclude_from_sim no)
-		(at 149.86 123.698 0)
+		(at 156.972 123.698 0)
 		(effects
 			(font
 				(size 1.27 1.27)
